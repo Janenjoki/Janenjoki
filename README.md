@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Janenjoki
+- 👀 I’m interested in `Application Development`(Android, iOS, Web)
+- 🌱 I’m currently learning `Kotlin` and `Flutter`
+- 📫 How to reach me:
+  - Email: janenjokiofficial@gmail.com
+  - LinkedIn:
